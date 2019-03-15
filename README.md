@@ -10,7 +10,7 @@ Absent
 
 ## Direct descendants
 
-Yet absent (TBD)
+[mongoose-express] (https://github.com/softspider/mongoose-express)
 
 ---
 
