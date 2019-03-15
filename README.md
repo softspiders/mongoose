@@ -22,10 +22,10 @@ yarn
 
 ## Prepare connection string
 
-Replace *YOUR_MONGODB_URI* for your own *MongoDb* connection string
+Replace *YOUR_MONGODB_URI* for your own *MongoDb* connection string. For example, in case of local mongodb server:
 
 ```javascript
-const uri = 'YOUR_MONGODB_URI';
+const uri = 'mongodb://localhost/test';
 ```
 
 ## Running
