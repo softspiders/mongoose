@@ -7,7 +7,7 @@
     "scripts": {
         "start": "node index.js"
     },
-	"dependencies": {
-    "mongoose": "latest"
-  }
+    "dependencies": {
+        "mongoose": "latest"
+    }
 }
