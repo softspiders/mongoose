@@ -1,0 +1,13 @@
+{
+    "name": "mongoose",
+    "description": "Miminalistic mongoose",
+    "version": "0.1.0",
+    "license": "MIT",
+    "author": "Alexander Lapygin",
+    "scripts": {
+        "start": "node index.js"
+    },
+	"dependencies": {
+    "mongoose": "latest"
+  }
+}
