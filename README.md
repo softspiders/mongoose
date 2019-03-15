@@ -10,7 +10,7 @@ Absent
 
 ## Direct descendants
 
-[mongoose-express] (https://github.com/softspider/mongoose-express)
+[mongoose-express](https://github.com/softspider/mongoose-express)
 
 ---
 
