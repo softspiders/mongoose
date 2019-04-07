@@ -11,7 +11,7 @@ Absent
 ## Direct descendants
 
 * [mongoose-express](https://github.com/softspider/mongoose-express)
-* [mongodb-tdd-crud](https://github.com/softspider/mongodb-tdd-crud)
+* [mongodb-crud-testing](https://github.com/softspider/mongodb-crud-testing)
 
 ---
 
