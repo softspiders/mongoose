@@ -1,3 +1,5 @@
+SOFTSPIDERS
+
 # Minimalistic *mongoose* example
 
 
@@ -10,7 +12,7 @@
 
 [Node.js](https://nodejs.org/en/download/package-manager/)
 
-## Direct feature descendants
+## Direct descendants
 
 * [mongoose-express](https://github.com/softspider/mongoose-express)
 * [mongodb-crud-testing](https://github.com/softspider/mongodb-crud-testing)
