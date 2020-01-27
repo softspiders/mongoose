@@ -14,8 +14,8 @@ SOFTSPIDERS
 
 ## Direct descendants
 
-* [mongoose-express](https://github.com/softspider/mongoose-express)
-* [mongodb-crud-testing](https://github.com/softspider/mongodb-crud-testing)
+* [mongoose-express](https://github.com/softspiders/mongoose-express)
+* [mongodb-crud-testing](https://github.com/softspiders/mongodb-crud-testing)
 
 ---
 
