@@ -1,21 +1,24 @@
-SOFTSPIDERS
+[SOFTSPIDERS](https://github.com/softspiders/softspiders)
 
 # Minimalistic *mongoose* example
-
 
 ## Feature tags
 
 - mongoose
 - template
 
-## Requirements
-
-[Node.js](https://nodejs.org/en/download/package-manager/)
+---
 
 ## Direct descendants
 
-* [mongoose-express](https://github.com/softspiders/mongoose-express)
-* [mongodb-crud-testing](https://github.com/softspiders/mongodb-crud-testing)
+- [mongoose-express](https://github.com/softspiders/mongoose-express)
+- [mongodb-crud-testing](https://github.com/softspiders/mongodb-crud-testing)
+
+---
+
+## Requirements
+
+[Node.js](https://nodejs.org/en/download/package-manager/)
 
 ---
 
